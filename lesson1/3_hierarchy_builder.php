@@ -34,3 +34,24 @@ $hierarchyBuilder->addNode('this is fifth level', 4, 0); // parent node does not
         |_ this is second level
     |_ this is first level once again
 */
+
+$array = array(
+    'product_id_1' => array(
+        'Men',
+        'Sunglasses',
+        'Luxury',
+        'Ray-ban'
+    ),
+    'product_id_2' => array(
+        'Women',
+        'Lenses',
+        'Casual',
+        'Gucci',
+    ),
+    'product_id_3' => array(
+        'Men',
+        'Sunglasses',
+        'Casual',
+        'Prada'
+    )
+);
