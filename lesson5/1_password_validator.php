@@ -19,7 +19,7 @@ Failo kvietimo pavyzdys:
 php -f 1_password_validator.php 123456
 Password must be at least 10 symbols long
 
-php -f 1_password_validator.php 123456abc!@
+php -f 1_password_validator.php 123456aBc!@
 Password is valid
 
 1.2 Patobulinkite validatoriu. Validatorius turi sukaupti visas klaidas ir jas išspausdinti.
