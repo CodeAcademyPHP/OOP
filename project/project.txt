@@ -1,0 +1,12 @@
+Projektas, projekto metu reikia atlikti veikiančią sistemą su Jūsų norimi dizainu (dizinas gali būti labai minalus,
+bet bent viskas gražiai išrikuoa, atvaizduota, pakeisti mygtukų atvaizdavimai ir t.t)
+
+Projekto pavadinimas - skelbimų portalas.
+
+Reikia padaryti paskaitos metu, kad vartotojas galėtų:
+
+1. Sukurti naują skelbimą
+2. Matyti visus skelbimus
+3. Ištrinti naują skelbimą.
+
+Paleidimas sistemos turi vykti per php -S
