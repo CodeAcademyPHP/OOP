@@ -1,0 +1,22 @@
+Užduotis:
+
+Sukurkite sistemą kuri paleidus per php -S turėtų formą, kurioje galime viename laukelyje įrašyti prekės pavadinimą,
+kitame kainą. Šie duomenys turi būti laiko faila, nes juos paspaudus mygtuką - "Rodyti visas prekes ir kaina" turi
+atvaizduoti visą suvestą kliento sarąšą.
+
+Sąraše turi būti galimybė paspausti mygtuką "Sumuoti visas prekes". Turi atvaizduoti po mygtuku visų prekių sumą.
+
+Taip pat turi būti dar vienas mygtukas su nuolaidos kodu, jeigu yra įvedamas validus nuolaidos kodas (susigalvokite koks
+jis turi būti ir aprašykite README failiukyje), tuomet prie tos sumos turi prisitaikyti nuolaida. Jeigu kodas yra nevalidus
+tuomet turi išmesti error'ą, kad įvėdėte bloką nuolaidos kodą.
+
+Jeigu buvo įvestas tinkamas nuolaidos kodas, tuomet sistema turi visas prekes pažymėti kaip nupirktas.
+
+ADVANCED (neprivaloma)
+Padaryti checbox'us kurias prekes būtų galima iš sąrašo pasirinkti ir skaičiuokite tik jų sumą, pritaikykite tik joms
+nuolaidą ir tik jis pažymėkite kaip NUPIRKTAS.
+
+REIKALAVIMAi:
+
+Reikia panaudoti exceptionus, interfeisus, klases, kodą išskaidyti kiek įmanoma labiau, panaudoti kontrolerius ir kitus
+reikalingus nustatymus (composer ir t.t)
